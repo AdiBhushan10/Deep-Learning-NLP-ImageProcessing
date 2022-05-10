@@ -5,7 +5,8 @@ Pre-requisites/Dependencies:
 2. install seaborn
 
 Goal:
-To detect and highlight human faces in an Image using LBP Classifier and calculate time taken by machine for face detection'''
+Content-based filtering is a type of recommender system that attempts to guess what a user may like based on that user’s activity.
+Content-based filtering makes recommendations by using keywords and attributes assigned to objects in a database (e.g., items in an online marketplace) and matching them to a user profile. 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 
